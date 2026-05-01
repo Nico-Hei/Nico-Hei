@@ -1,6 +1,6 @@
 # Hi, I'm Nico 👋
 
-I'm a student form Germany, currently finishing my A-Levels with an additonal education as an IT assistant.<br>
+I'm a student from Germany, currently finishing my A-Levels with an additonal education as an IT assistant.<br>
 I have a passion for self-hosted infrastructure, Linux and hardware configuration.
 
 ## Contact:
