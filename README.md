@@ -1,13 +1,12 @@
 # Hi, I'm Nico 👋
-I'm a student from Germany, currently finishing my A-Levels with an additonal education as an IT assistant.<br>
+I'm a student from Germany, currently finishing my A-Levels with an additional education as an IT assistant.<br>
 I have a passion for self-hosted infrastructure, Linux and hardware configuration.
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/Linux-Server%20%26%20Desktop-FCC624?style=for-the-badge&logo=Linux&logoColor=white)  **mainly based on**  ![Static Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white) ![Static Badge](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-Server%20%26%20Desktop-FCC624?style=for-the-badge&logo=Linux&logoColor=white)  **mainly based on**  ![Static Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Windows-Desktop-A8D4ED?style=for-the-badge)
 
-![Static Badge](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Virtualbox-2F61B4?style=for-the-badge&logo=Virtualbox&logoColor=white)
 
