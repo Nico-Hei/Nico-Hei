@@ -22,6 +22,8 @@ I have a passion for self-hosted infrastructure, Linux and hardware configuratio
 I am currently working on improving my [Homelab](https://github.com/Nico-Hei/Homelab).
 For details on what I am specifically working on, check out the Todo section of the project.
 
+I've also made first experiences with Hardware hacking by modifing my Nintendo Game and Watch recently [GNWModding](https://github.com/Nico-Hei/GNW-Modding).
+
 ## Contact:
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/nico-hei)
 [![Static Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/750416336147972226)
